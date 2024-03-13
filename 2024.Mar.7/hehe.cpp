@@ -1,5 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hello World!");
+    int iput = 10;
+    scanf("%d",&iput);
+    printf("Hello %d World!\n",iput);
+
+    return 0;
 }
+
