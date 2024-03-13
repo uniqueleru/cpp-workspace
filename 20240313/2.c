@@ -11,6 +11,10 @@ int main(){
     printf("hello");
     printf("hello\n");
     printf("hello");
+    printf("%d\n",20);
+    printf("%d %d\n",20,2024);
+
+
 
 
 
